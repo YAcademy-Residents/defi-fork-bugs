@@ -28,3 +28,7 @@
 ## Curve
 
 - Curve: read-only reentrancy [Postmortem](https://chainsecurity.com/curve-lp-oracle-manipulation-post-mortem/)
+
+## Aave
+
+- Aave V2: risk of price manipulation can lead to accumulating bad debt [Governance proposed mitigation](https://governance.aave.com/t/arc-risk-parameter-recommendations-for-aave-v2-eth-2022-11-22/10757/27) [writeup](https://medium.com/@eigenphi/an-in-depth-analysis-of-how-aaves-1-6-million-bad-debt-was-created-ab74027ea108)
