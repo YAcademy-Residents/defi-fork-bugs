@@ -12,7 +12,7 @@
 - Ola Finance: Flashloan and reentrancy (no checks-effects-interaction protection) [Postmortem](https://medium.com/coinmonks/ola-finance-hack-a-post-mortem-analysis-7bf498f73a54)
 - Rari Capital: Flashloan and reentrancy (no checks-effects-interaction protection) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20220430-rari-capitalfei-protocol---flashloan-attack--reentrancy)
 - Hundred Finance: Exploit of empty markets [Postmortem](https://blog.hundred.finance/15-04-23-hundred-finance-hack-post-mortem-d895b618cf33) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20230415-hundredfinance---flashloan-exchangerate-manipulation--erc4626-inflation-attack)
-- 0VIX: price oracle vulnerability allowed donation-based price maniulation [Thread](https://twitter.com/peckshield/status/1651923235603361793)
+- 0VIX: price oracle vulnerability allowed donation-based price maniulation [Thread](https://twitter.com/peckshield/status/1651923235603361793) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20230428-0vix---flashloan-price-manipulation)
 
 ## Uniswap v2
 
