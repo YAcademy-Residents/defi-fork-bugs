@@ -6,7 +6,7 @@
 - CREAM: Price manipulation [Postmortem](https://medium.com/immunefi/hack-analysis-cream-finance-oct-2021-fc222d913fc5) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20211027-creamfinance---price-manipulation)
 - Lendf.me: Flashloan and reentrancy (no checks-effects-interaction protection) [Postmortem](https://medium.com/dforcenet/a-summary-of-the-attack-on-lendf-me-on-april-19-2020-e2f1c5d96640)
 - Compound: Double-entry point token issue [Retrospective](https://blog.openzeppelin.com/compound-tusd-integration-issue-retrospective/) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20220322-compoundtusdsweeptokenbypass)
-- Lodestar Finance: Exchange rate manipulation [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20221211---lodestar---flashloan-price-manipulation)
+- Lodestar Finance: Exchange rate manipulation [Thread](https://twitter.com/BowTiedPickle/status/1601650177369993216) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20221211---lodestar---flashloan-price-manipulation)
 - Agave Finance: Flashloan and reentrancy on gnosis, where native token has callback hook (no checks-effects-interaction protection) [Postmortem](https://medium.com/immunefi/a-poc-of-the-hundred-finance-heist-4121f23a098)
 - Hundred Finance: Flashloan and reentrancy on gnosis, where native token has callback hook (no checks-effects-interaction protection) [Postmortem](https://medium.com/immunefi/a-poc-of-the-hundred-finance-heist-4121f23a098)
 - Ola Finance: Flashloan and reentrancy (no checks-effects-interaction protection) [Postmortem](https://medium.com/coinmonks/ola-finance-hack-a-post-mortem-analysis-7bf498f73a54)
@@ -24,6 +24,7 @@
 
 - Balancer: deflationary token can drain pools [Postmortem](https://medium.com/balancer-protocol/incident-with-non-standard-erc20-deflationary-tokens-95a0f6d46dea)
 - Sentiment: read-only reentrancy [Postmortem](https://hackmd.io/@sentimentxyz/SJCySo1z2) [forum](https://forum.balancer.fi/t/reentrancy-vulnerability-scope-expanded/4345) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20230405-sentiment---read-only-reentrancy)
+- Balancer: Double entrypoint token DoS risk [Forum](https://forum.balancer.fi/t/medium-severity-bug-found/3161)
 
 ## Curve
 
