@@ -2,6 +2,7 @@
 
 ## Compound
 
+- Compound: price manipulation of DAI on Coinbase impacted Coinbase oracle price [Postmortem](https://www.comp.xyz/t/dai-liquidation-event/642)
 - CREAM: flashloan attack & reentrancy with ERC777-like token (no checks-effects-interaction protection) [Postmortem](https://medium.com/cream-finance/c-r-e-a-m-finance-post-mortem-amp-exploit-6ceb20a630c5) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20210830-cream-finance---flashloan-attack--reentrancy)
 - CREAM: Price manipulation [Postmortem](https://medium.com/immunefi/hack-analysis-cream-finance-oct-2021-fc222d913fc5) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20211027-creamfinance---price-manipulation)
 - Lendf.me: Flashloan and reentrancy (no checks-effects-interaction protection) [Postmortem](https://medium.com/dforcenet/a-summary-of-the-attack-on-lendf-me-on-april-19-2020-e2f1c5d96640)
