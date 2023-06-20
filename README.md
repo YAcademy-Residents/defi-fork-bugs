@@ -27,6 +27,7 @@
 - Balancer: deflationary token can drain pools [Postmortem](https://medium.com/balancer-protocol/incident-with-non-standard-erc20-deflationary-tokens-95a0f6d46dea)
 - Sentiment: read-only reentrancy [Postmortem](https://hackmd.io/@sentimentxyz/SJCySo1z2) [forum](https://forum.balancer.fi/t/reentrancy-vulnerability-scope-expanded/4345) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20230405-sentiment---read-only-reentrancy)
 - Balancer: Double entrypoint token DoS risk [Forum](https://forum.balancer.fi/t/medium-severity-bug-found/3161)
+- SturdyFinance: read-only reentrancy [Thread1](https://twitter.com/BlockSecTeam/status/1668084629654638592) [Thread2](https://twitter.com/1nf0s3cpt/status/1668802708592267264)
 
 ## Curve
 
