@@ -15,6 +15,7 @@
 - Venus: Chainlink LUNA oracle became inaccurate during the Terra collapse, which cause a similar result as oracle manipulation and led to draining of protocols [writeup](https://rekt.news/venus-blizz-rekt/)
 - Hundred Finance: Exploit of empty markets [Postmortem](https://blog.hundred.finance/15-04-23-hundred-finance-hack-post-mortem-d895b618cf33) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20230415-hundredfinance---flashloan-exchangerate-manipulation--erc4626-inflation-attack)
 - 0VIX: price oracle vulnerability allowed donation-based price maniulation [Thread](https://twitter.com/peckshield/status/1651923235603361793) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20230428-0vix---flashloan-price-manipulation)
+- Onyx Finance: Exploit of empty markets [Postmortem](https://rekt.news/onyx-protocol-rekt/) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20231101-onyxprotocol---precission-loss-vulnerability)
 
 ## Uniswap v2
 
