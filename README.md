@@ -41,3 +41,4 @@
 - Blizz Finance: Chainlink LUNA oracle became inaccurate during the Terra collapse, which had a similar result as oracle manipulation and led to draining of protocols [writeup](https://rekt.news/venus-blizz-rekt/)
 - HopeLend: Empty market issue (same as the issue in Compound Finance) combined with rounding error [writeup](https://www.certik.com/resources/blog/5dHTzHnoARD1huRtxu0qvi-hopelend-incident-analysis)
 - Radiant Finance: Empty market issue (same as the issue in Compound Finance) combined with rounding error [writeup](https://blog.verichains.io/p/radiant-lending-pool-hack-analysis)
+-  Antonio Viggiano: Common issues from Aave forks error list [writeup](https://gist.github.com/aviggiano/4c21d79fff3437f3799da1e44e425e06)
