@@ -8,7 +8,6 @@
 - Lendf.me: Flashloan and reentrancy (no checks-effects-interaction protection) [Postmortem](https://medium.com/dforcenet/a-summary-of-the-attack-on-lendf-me-on-april-19-2020-e2f1c5d96640)
 - Compound: Double-entry point token issue [Retrospective](https://blog.openzeppelin.com/compound-tusd-integration-issue-retrospective/) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20220322-compoundtusdsweeptokenbypass)
 - Lodestar Finance: Exchange rate manipulation [Thread](https://twitter.com/BowTiedPickle/status/1601650177369993216) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20221211---lodestar---flashloan-price-manipulation)
-- Agave Finance: Flashloan and reentrancy on gnosis, where native token has callback hook (no checks-effects-interaction protection) [Postmortem](https://medium.com/immunefi/a-poc-of-the-hundred-finance-heist-4121f23a098)
 - Hundred Finance: Flashloan and reentrancy on gnosis, where native token has callback hook (no checks-effects-interaction protection) [Postmortem](https://medium.com/immunefi/a-poc-of-the-hundred-finance-heist-4121f23a098)
 - Ola Finance: Flashloan and reentrancy (no checks-effects-interaction protection) [Postmortem](https://medium.com/coinmonks/ola-finance-hack-a-post-mortem-analysis-7bf498f73a54)
 - Rari Capital: Flashloan and reentrancy (no checks-effects-interaction protection) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20220430-rari-capitalfei-protocol---flashloan-attack--reentrancy)
@@ -39,5 +38,6 @@
 
 - Aave V2: risk of price manipulation can lead to accumulating bad debt [Governance proposed mitigation](https://governance.aave.com/t/arc-risk-parameter-recommendations-for-aave-v2-eth-2022-11-22/10757/27) [writeup](https://medium.com/@eigenphi/an-in-depth-analysis-of-how-aaves-1-6-million-bad-debt-was-created-ab74027ea108)
 - Blizz Finance: Chainlink LUNA oracle became inaccurate during the Terra collapse, which had a similar result as oracle manipulation and led to draining of protocols [writeup](https://rekt.news/venus-blizz-rekt/)
+- Agave Finance: Flashloan and reentrancy on gnosis, where native token has callback hook (no checks-effects-interaction protection) [Postmortem](https://medium.com/immunefi/a-poc-of-the-hundred-finance-heist-4121f23a098)
 - HopeLend: Empty market issue (same as the issue in Compound Finance) combined with rounding error [writeup](https://www.certik.com/resources/blog/5dHTzHnoARD1huRtxu0qvi-hopelend-incident-analysis)
 - Radiant Finance: Empty market issue (same as the issue in Compound Finance) combined with rounding error [writeup](https://blog.verichains.io/p/radiant-lending-pool-hack-analysis)
