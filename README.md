@@ -16,6 +16,7 @@
 - 0VIX: price oracle vulnerability allowed donation-based price maniulation [Thread](https://twitter.com/peckshield/status/1651923235603361793) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20230428-0vix---flashloan-price-manipulation)
 - Midas Capital: Exploit of empty markets [writeup](https://neptunemutual.com/blog/understanding-midas-capital-exploit/)
 - Onyx Finance: Exploit of empty markets [Postmortem](https://rekt.news/onyx-protocol-rekt/) [POC](https://github.com/SunWeb3Sec/DeFiHackLabs#20231101-onyxprotocol---precission-loss-vulnerability)
+- Sonne Finance: Exploit of empty markets [Postmortem](https://medium.com/@SonneFinance/post-mortem-sonne-finance-exploit-12f3daa82b06)
 
 ## Uniswap v2
 
